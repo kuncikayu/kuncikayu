@@ -16,9 +16,6 @@
 ### 📊 GitHub Stats:
 
 ![Key's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuncikayu&show_icons=true&theme=nightowl)
-![](https://nirzak-streak-stats.vercel.app/?user=kuncikayu&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuncikayu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 ---
 
