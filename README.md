@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Web3 Projects as a Node & Validator<br>
 - 🌱 I’m currently learning Web3 & Cryptocurrency<br>
-- 😄 Pronouns: Key
+- 😄 UI/UX Designer
 
 ### 🌐 Socials:
 
@@ -19,6 +19,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/kuncikayu/kuncikayu/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuncikayu/kuncikayu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuncikayu/kuncikayu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kuncikayu/kuncikayu/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
